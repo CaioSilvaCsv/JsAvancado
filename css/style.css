@@ -61,3 +61,7 @@ select[size]::-webkit-scrollbar{
 input{
     border-radius: 0.4rem;
 }
+
+img{
+    width: 60%;
+}
